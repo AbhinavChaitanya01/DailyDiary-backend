@@ -1,4 +1,4 @@
-# Daily Diary
+# DailyDiary
 
 <img width="959" alt="DailyDiaryHomePage" src="https://github.com/AbhinavChaitanya01/DailyDiary-backend/assets/98750072/719fc296-f6ad-4726-9b23-4fdc085d79f2">
 
